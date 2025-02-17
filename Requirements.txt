@@ -1,0 +1,10 @@
+os
+Pandas
+parser
+system
+apiclient
+google-api-python-client
+facebook-scraper
+instagrapi
+requests
+isodate
